@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asign</string>
+
+    <!-- Menu - Draw -->
+    <string name="text_draw_title">그리기&amp;텍스트</string>
+
+    <!-- PopUp Start -->
+    <string name="pop_button_yes">Yes</string>
+    <string name="pop_button_no">No</string>
+    <string name="pop_button_ok">Confirm</string>
+    <string name="pop_button_concel">Cancel</string>
+
+    <!-- Intro -->
+    <string name="ver_code_name">Ver.</string>
+
+    <!-- Notice Text -->
+    <string name="notice_bluetooth_on">해당 Device 에서는 Bluetooth 사용이 불가능합니다..</string>
+</resources>
